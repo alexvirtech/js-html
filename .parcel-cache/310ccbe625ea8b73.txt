@@ -13,7 +13,7 @@
 76D:\Ort\Web\web_2022\p4\t1\node_modules\postcss-merge-longhand\types\lib\decl133124803528752239 1
 66D:\Ort\Web\web_2022\p4\t1\node_modules\cosmiconfig\dist\index.d.ts133124757112651256 0
 74D:\Ort\Web\web_2022\p4\t1\node_modules\postcss-calc\src\lib\convertUnit.js133124803528012238 0
-30D:\Ort\Web\web_2022\p4\t1\dist133124810950093136 1
+30D:\Ort\Web\web_2022\p4\t1\dist133124822498549378 1
 70D:\Ort\Web\web_2022\p4\t1\node_modules\caniuse-lite\data\regions\AL.js133124757111451256 0
 95D:\Ort\Web\web_2022\p4\t1\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js133124757124786368 0
 79D:\Ort\Web\web_2022\p4\t1\node_modules\postcss-normalize-positions\package.json133124803527872241 0
@@ -33,7 +33,7 @@
 95D:\Ort\Web\web_2022\p4\t1\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map133124757111241258 0
 38D:\Ort\Web\web_2022\p4\t1\src\utils.js133124772472716382 0
 71D:\Ort\Web\web_2022\p4\t1\node_modules\css-tree\lib\convertor\create.js133124757111861242 0
-38D:\Ort\Web\web_2022\p4\t1\src\model.js133124785057354831 0
+38D:\Ort\Web\web_2022\p4\t1\src\model.js133124819080741042 0
 79D:\Ort\Web\web_2022\p4\t1\node_modules\css-tree\lib\syntax\node\SelectorList.js133124757114061243 0
 81D:\Ort\Web\web_2022\p4\t1\node_modules\postcss-merge-longhand\src\lib\parseWsc.js133124803528482248 0
 81D:\Ort\Web\web_2022\p4\t1\node_modules\posthtml\node_modules\posthtml-parser\dist133124757110611238 1
@@ -79,7 +79,7 @@
 63D:\Ort\Web\web_2022\p4\t1\node_modules\terser\dist\package.json133124757113341247 0
 70D:\Ort\Web\web_2022\p4\t1\node_modules\update-browserslist-db\index.js133124757109721246 0
 63D:\Ort\Web\web_2022\p4\t1\node_modules\postcss-svgo\LICENSE-MIT133124803527692224 0
-40D:\Ort\Web\web_2022\p4\t1\src\index.html133124764013554296 0
+40D:\Ort\Web\web_2022\p4\t1\src\index.html133124820196176782 0
 58D:\Ort\Web\web_2022\p4\t1\node_modules\postcss\lib\rule.js133124803528462236 0
 85D:\Ort\Web\web_2022\p4\t1\node_modules\caniuse-lite\data\features\css-revert-value.js133124757115021237 0
 46D:\Ort\Web\web_2022\p4\t1\node_modules\@parcel133124757105431240 1
@@ -93,7 +93,7 @@
 62D:\Ort\Web\web_2022\p4\t1\node_modules\postcss\lib\postcss.mjs133124803528592232 0
 82D:\Ort\Web\web_2022\p4\t1\node_modules\stylehacks\src\plugins\mediaSlash0Slash9.js133124803528342245 0
 71D:\Ort\Web\web_2022\p4\t1\node_modules\postcss-merge-rules\src\index.js133124803527922238 0
-38D:\Ort\Web\web_2022\p4\t1\src\index.js133124790645848900 0
+38D:\Ort\Web\web_2022\p4\t1\src\index.js133124818815522243 0
 82D:\Ort\Web\web_2022\p4\t1\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133124757111781239 0
 71D:\Ort\Web\web_2022\p4\t1\node_modules\@jridgewell\source-map\README.md133124757110741242 0
 60D:\Ort\Web\web_2022\p4\t1\node_modules\postcss\lib\result.js133124803528432244 0
@@ -113,7 +113,7 @@
 70D:\Ort\Web\web_2022\p4\t1\node_modules\css-tree\lib\tokenizer\utils.js133124757114221252 0
 63D:\Ort\Web\web_2022\p4\t1\node_modules\stylehacks\src\plugin.js133124803528382243 0
 59D:\Ort\Web\web_2022\p4\t1\node_modules\postcss-value-parser133124757110621258 1
-47D:\Ort\Web\web_2022\p4\t1\src\classes\blocks.js133124784938329440 0
+47D:\Ort\Web\web_2022\p4\t1\src\classes\blocks.js133124818926096359 0
 43D:\Ort\Web\web_2022\p4\t1\node_modules\.bin133124803528892237 1
 50D:\Ort\Web\web_2022\p4\t1\node_modules\@ampproject133124756870202415 1
 63D:\Ort\Web\web_2022\p4\t1\node_modules\postcss\lib\warning.d.ts133124803528822245 0
@@ -140,7 +140,7 @@
 78D:\Ort\Web\web_2022\p4\t1\node_modules\postcss-reduce-initial\types\index.d.ts133124803528152235 0
 48D:\Ort\Web\web_2022\p4\t1\node_modules\lmdb\util133124757114311243 1
 44D:\Ort\Web\web_2022\p4\t1\src\assets\ort.jpg132589820818288359 0
-47D:\Ort\Web\web_2022\p4\t1\dist\ort.438f3dc3.jpg133124810950003149 0
+47D:\Ort\Web\web_2022\p4\t1\dist\ort.438f3dc3.jpg133124822498469357 0
 69D:\Ort\Web\web_2022\p4\t1\node_modules\nth-check\lib\compile.d.ts.map133124757110891244 0
 62D:\Ort\Web\web_2022\p4\t1\node_modules\htmlnano\lib\helpers.js133124757111051251 0
 57D:\Ort\Web\web_2022\p4\t1\node_modules\.package-lock.json133124803546011715 0
@@ -2888,7 +2888,7 @@
 61D:\Ort\Web\web_2022\p4\t1\node_modules\entities\lib\generated133124757111971254 1
 62D:\Ort\Web\web_2022\p4\t1\node_modules\entities\lib\index.d.ts133124757112171241 0
 104D:\Ort\Web\web_2022\p4\t1\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133124757113991261 0
-49D:\Ort\Web\web_2022\p4\t1\dist\index.beff609c.css133124810950003149 0
+49D:\Ort\Web\web_2022\p4\t1\dist\index.beff609c.css133124822498469357 0
 70D:\Ort\Web\web_2022\p4\t1\node_modules\entities\lib\maps\entities.json133124757111041236 0
 80D:\Ort\Web\web_2022\p4\t1\node_modules\entities\lib\generated\decode-data-xml.js133124757110191268 0
 72D:\Ort\Web\web_2022\p4\t1\node_modules\electron-to-chromium\CHANGELOG.md133124757111291245 0
@@ -5009,8 +5009,8 @@
 52D:\Ort\Web\web_2022\p4\t1\node_modules\.bin\svgo.ps1133124757138846370 0
 54D:\Ort\Web\web_2022\p4\t1\node_modules\.bin\terser.cmd133124757138856370 0
 54D:\Ort\Web\web_2022\p4\t1\node_modules\.bin\terser.ps1133124757138856370 0
-48D:\Ort\Web\web_2022\p4\t1\dist\index.53ad12c7.js133124810950083138 0
-41D:\Ort\Web\web_2022\p4\t1\dist\index.html133124810950007507 0
+48D:\Ort\Web\web_2022\p4\t1\dist\index.53ad12c7.js133124822498539368 0
+41D:\Ort\Web\web_2022\p4\t1\dist\index.html133124822498471974 0
 35D:\Ort\Web\web_2022\p4\t1\.cache\00133124803491490983 1
 35D:\Ort\Web\web_2022\p4\t1\.cache\01133124803491490983 1
 35D:\Ort\Web\web_2022\p4\t1\.cache\07133124803491510671 1

@@ -1,4 +1,4 @@
-import { TitleBlock,TextBlock, ColumnsBlock,ImageBlock } from "./classes/blocks"
+import { TitleBlock,TextBlock, ColumnsBlock,ImageBlock } from "./classes/blocks.js"
 import image from "./assets/ort.jpg"
 
 const tempText =
