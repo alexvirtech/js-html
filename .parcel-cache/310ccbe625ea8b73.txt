@@ -29,7 +29,7 @@
 66D:\Ort\Web\web_2022\p4\t1\node_modules\source-map\lib\array-set.js133124757110131257 0
 35D:\Ort\Web\web_2022\p4\t1\.cache\62133124803493150884 1
 77D:\Ort\Web\web_2022\p4\t1\node_modules\@jridgewell\set-array\src\set-array.ts133124757110801260 0
-38D:\Ort\Web\web_2022\p4\t1\package.json133124837437005027 0
+38D:\Ort\Web\web_2022\p4\t1\package.json133124842565569888 0
 95D:\Ort\Web\web_2022\p4\t1\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map133124757111241258 0
 38D:\Ort\Web\web_2022\p4\t1\src\utils.js133124772472716382 0
 71D:\Ort\Web\web_2022\p4\t1\node_modules\css-tree\lib\convertor\create.js133124757111861242 0
@@ -56,7 +56,7 @@
 56D:\Ort\Web\web_2022\p4\t1\node_modules\svgo\package.json133124757113771244 0
 65D:\Ort\Web\web_2022\p4\t1\node_modules\msgpackr\dist\index.min.js133124757110631248 0
 87D:\Ort\Web\web_2022\p4\t1\node_modules\@parcel\core\test\fixtures\common-targets-ignore133124757138466369 1
-30D:\Ort\Web\web_2022\p4\t1\docs133124837708527954 1
+30D:\Ort\Web\web_2022\p4\t1\docs133124842650196634 1
 61D:\Ort\Web\web_2022\p4\t1\node_modules\postcss\lib\postcss.js133124803528392257 0
 58D:\Ort\Web\web_2022\p4\t1\node_modules\terser\lib\compress133124757113241238 1
 51D:\Ort\Web\web_2022\p4\t1\node_modules\mdn-data\api133124757111261261 1
@@ -1276,7 +1276,7 @@
 59D:\Ort\Web\web_2022\p4\t1\node_modules\cssnano\package.json133124803527892245 0
 66D:\Ort\Web\web_2022\p4\t1\node_modules\terser\lib\equivalent-to.js133124757112421272 0
 75D:\Ort\Web\web_2022\p4\t1\node_modules\postcss-minify-font-values\types\lib133124803528292238 1
-49D:\Ort\Web\web_2022\p4\t1\docs\index.beff609c.css133124837694695307 0
+49D:\Ort\Web\web_2022\p4\t1\docs\index.beff609c.css133124842637221669 0
 60D:\Ort\Web\web_2022\p4\t1\node_modules\terser\bin\terser.mjs133124757113481251 0
 59D:\Ort\Web\web_2022\p4\t1\node_modules\terser\lib\minify.js133124757112881246 0
 60D:\Ort\Web\web_2022\p4\t1\node_modules\posthtml\node_modules133124757105481242 1
@@ -3273,7 +3273,7 @@
 77D:\Ort\Web\web_2022\p4\t1\node_modules\cosmiconfig\dist\getDirectory.d.ts.map133124757111751252 0
 75D:\Ort\Web\web_2022\p4\t1\node_modules\cosmiconfig\dist\ExplorerBase.js.map133124757111561249 0
 73D:\Ort\Web\web_2022\p4\t1\node_modules\cosmiconfig\dist\ExplorerSync.d.ts133124757112551250 0
-41D:\Ort\Web\web_2022\p4\t1\docs\index.html133124837708517953 0
+41D:\Ort\Web\web_2022\p4\t1\docs\index.html133124842650186627 0
 77D:\Ort\Web\web_2022\p4\t1\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133124757111631257 0
 82D:\Ort\Web\web_2022\p4\t1\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts.map133124757111861242 0
 73D:\Ort\Web\web_2022\p4\t1\node_modules\abortcontroller-polyfill\README.md133124757111361248 0
@@ -5026,8 +5026,8 @@
 52D:\Ort\Web\web_2022\p4\t1\node_modules\.bin\svgo.ps1133124757138846370 0
 54D:\Ort\Web\web_2022\p4\t1\node_modules\.bin\terser.cmd133124757138856370 0
 54D:\Ort\Web\web_2022\p4\t1\node_modules\.bin\terser.ps1133124757138856370 0
-48D:\Ort\Web\web_2022\p4\t1\docs\index.31384023.js133124837708517953 0
-47D:\Ort\Web\web_2022\p4\t1\docs\ort.438f3dc3.jpg133124837696436885 0
+48D:\Ort\Web\web_2022\p4\t1\docs\index.31384023.js133124842650186627 0
+47D:\Ort\Web\web_2022\p4\t1\docs\ort.438f3dc3.jpg133124842637711656 0
 35D:\Ort\Web\web_2022\p4\t1\dist\.git133124830960218766 1
 48D:\Ort\Web\web_2022\p4\t1\dist\index.53ad12c7.js133124822498539368 0
 41D:\Ort\Web\web_2022\p4\t1\dist\index.html133124822498471974 0
