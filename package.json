@@ -1,0 +1,17 @@
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "go": "parcel ./src/index.html -p 3030 --no-source-maps",
+    "build": "parcel build ./src/index.html --no-source-maps",
+    "prod": "parcel ./dist/index.html -p 3031"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^5.1.14",
+    "parcel": "^2.8.0",
+    "postcss": "^8.4.18"
+  }
+}
