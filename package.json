@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "go": "parcel ./src/index.html -p 3030 --no-source-maps",
+    "dev": "parcel ./src/index.html -p 3030 --no-source-maps",
     "build": "parcel build ./src/index.html --no-source-maps --public-url ./ --dist-dir docs"
   },
   "author": "",
